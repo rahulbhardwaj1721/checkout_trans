@@ -1,0 +1,6 @@
+[
+    {"pid":"a","actualcost":"50","quantity":"3","spprice":"130"},
+    {"pid":"b","actualcost":"30","quantity":"2","spprice":"45"},
+    {"pid":"c","actualcost":"20","quantity":"","spprice":""},
+    {"pid":"d","actualcost":"15","quantity":"","spprice":""}
+]
